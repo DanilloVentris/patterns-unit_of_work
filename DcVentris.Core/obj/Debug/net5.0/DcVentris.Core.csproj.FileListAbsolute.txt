@@ -1,0 +1,11 @@
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\bin\Debug\net5.0\DcVentris.Core.deps.json
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\bin\Debug\net5.0\DcVentris.Core.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\bin\Debug\net5.0\ref\DcVentris.Core.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\bin\Debug\net5.0\DcVentris.Core.pdb
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\DcVentris.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\DcVentris.Core.AssemblyInfoInputs.cache
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\DcVentris.Core.AssemblyInfo.cs
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\DcVentris.Core.csproj.CoreCompileInputs.cache
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\DcVentris.Core.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\ref\DcVentris.Core.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Core\obj\Debug\net5.0\DcVentris.Core.pdb

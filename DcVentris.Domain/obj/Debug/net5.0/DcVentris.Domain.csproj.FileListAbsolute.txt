@@ -1,0 +1,15 @@
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\bin\Debug\net5.0\DcVentris.Domain.deps.json
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\bin\Debug\net5.0\DcVentris.Domain.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\bin\Debug\net5.0\ref\DcVentris.Domain.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\bin\Debug\net5.0\DcVentris.Domain.pdb
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\bin\Debug\net5.0\DcVentris.Core.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\bin\Debug\net5.0\DcVentris.Core.pdb
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.csproj.AssemblyReference.cache
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.AssemblyInfoInputs.cache
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.AssemblyInfo.cs
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.csproj.CoreCompileInputs.cache
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.csproj.CopyComplete
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\ref\DcVentris.Domain.dll
+D:\Git\Pattern_UnitOfWork\DcVentris.Domain\obj\Debug\net5.0\DcVentris.Domain.pdb

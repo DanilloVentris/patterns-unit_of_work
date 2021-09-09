@@ -1,0 +1,15 @@
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\bin\Debug\net5.0\Artefacto.CondominioIpero.Domain.deps.json
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\bin\Debug\net5.0\Artefacto.CondominioIpero.Domain.dll
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\bin\Debug\net5.0\ref\Artefacto.CondominioIpero.Domain.dll
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\bin\Debug\net5.0\Artefacto.CondominioIpero.Domain.pdb
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\bin\Debug\net5.0\Artefacto.CondominioIpero.Core.dll
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\bin\Debug\net5.0\Artefacto.CondominioIpero.Core.pdb
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.csproj.AssemblyReference.cache
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.AssemblyInfoInputs.cache
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.AssemblyInfo.cs
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.csproj.CoreCompileInputs.cache
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.csproj.CopyComplete
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.dll
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\ref\Artefacto.CondominioIpero.Domain.dll
+D:\03-WebApp\Artefacto.CondominioIpero\Artefacto.CondominioIpero.Domain\obj\Debug\net5.0\Artefacto.CondominioIpero.Domain.pdb
